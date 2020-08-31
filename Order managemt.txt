@@ -1,4 +1,4 @@
-# Order-Management
+I implemented Order management as per the document mentioned mail
 
 --2 service implemented 
 
@@ -7,7 +7,7 @@
 
 in the above 2 service, all the 4 api's exposed as RestApi's only
 
-Technical stack--
+Technical stack-- 
 
 Java,springBoot,Spring cloud(Feign client, hytrix server),
 H2 Database,Swagger enabled,Caffien Cache
